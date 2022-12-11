@@ -1,5 +1,5 @@
 #login {
-  display: none;
+  display: block;
 }
 
 #login h1 {
@@ -21,7 +21,7 @@
 /* kkk */
 
 #newPage {
-  display: block;
+  display: none;
   margin-top: 10%;
   /* margin-left: 10%; */
 }
